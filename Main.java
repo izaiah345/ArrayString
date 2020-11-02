@@ -13,6 +13,7 @@ class Main {
 
     for(int i = 0; i <food.length; i++){
       System.out.println(food[i]);
+      
     }
   }
 }
