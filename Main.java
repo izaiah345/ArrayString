@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    string [] food = {"Pizza", "Taco", "Hamburger","Hotdog","Fries","Chicken","Cake"}; 
+    String [] food = {"Pizza", "Taco", "Hamburger", "Hotdog", "Fries", "Chicken", "Cake"}; 
 
     for(int i = 0; i < 6; i++){
       System.out.println(food[i]);
