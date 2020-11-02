@@ -9,7 +9,7 @@ class Main {
 
     food [6]= "cheese";
 
-   System.out.print("\n here is our updated list: \n")
+   System.out.print("\n here is our updated list: \n");
 
     for(int i = 0; i <food.length; i++){
       System.out.println(food[i]);
